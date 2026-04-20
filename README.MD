@@ -14,7 +14,7 @@ ___
 
 ## ⚠️ Limitations
 
-- **Wi-Fi and Bluetooth** are not functional due to the lack of compatible drivers for this macOS version and hardware.
+- **Wi-Fi, Bluetooth, Card reader and Fingerprint sensor** are not functional due to the lack of compatible drivers for this macOS version and hardware.
 
 ---
 
