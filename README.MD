@@ -26,6 +26,7 @@ ___
 - Ethernet (IntelMausiEthernet, a version I compiled myself for OS X 10.8)
 - USB (except the rear port)
 - DVD-ROM drive
+- Hibernation
 
 ---
 
