@@ -40,7 +40,7 @@ ___
 
 - A **blank white screen** may occasionally appear during boot after the system finishes loading.
     - This is a known issue.
-    - **Temporary workaround:** simply reboot the system.
+    - **Temporary workaround:** close the laptop lid and then open it again.
     - A permanent fix has not yet been identified.
 
 ---
@@ -54,3 +54,9 @@ ___
 ## Disclaimer
 
 This project is intended for educational and experimental purposes only. Use at your own risk.
+
+---
+
+## Screenshot
+
+![img.png](img/img1.jpg)
