@@ -8,7 +8,8 @@ ___
 
 - Use **UEFI Only** boot mode (Legacy/CSM is not supported).
 - If your model includes a optional NVIDIA GPU, it must be **disabled** (use integrated graphics only).
-
+- For unknown reasons, using a 1600x900 resolution may cause lag. If you experience this issue, please lower the resolution.
+- 
 ---
 
 ## ⚠️ Limitations
